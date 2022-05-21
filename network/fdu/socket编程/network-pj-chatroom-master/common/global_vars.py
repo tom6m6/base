@@ -1,2 +1,0 @@
-# crypto
-shared_secret = ''
